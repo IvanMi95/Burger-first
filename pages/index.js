@@ -4,6 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Link from "next/link"
 
 export default function Home() {
+  // Test
   return (
     <div>
       <Head>

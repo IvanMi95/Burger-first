@@ -1,0 +1,24 @@
+{
+  "name": "first-exercise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "next start -p 8080",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "netlify-identity-widget": "^1.9.2",
+    "next": "13.0.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^6.5.1",
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.0"
+  }
+}
